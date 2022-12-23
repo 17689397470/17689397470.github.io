@@ -1,0 +1,40 @@
+body{
+    background-color: #4d4a40;
+    line-height: 2;
+    min-width: 1000px;
+}
+.div1{
+    background-color: #fff;
+    width: 90%;
+    margin: 20px auto;
+    padding: 30px 0px;
+}
+.div1 header{
+    background-color: #267890;
+    text-align: center;
+    border: 5px solid #14414e;
+    margin: 0 -34px;
+}
+.div1 header h1{
+    font-size: 42px;
+    color: #fff;
+}
+.div1 header .a1{
+    color: #dbdbdb;
+    margin-bottom: 30px;
+}
+.div1 header .a1 a:hover{
+    color:#fff ;
+}
+.div1 section{
+    width: 90%;
+    margin: 0 auto;
+}
+.div1 section h2{
+    font-size: 32px;
+    border-top: 1px dotted ;
+    border-bottom: 1px dotted;
+}
+.div1 section p{
+    margin: 1em 0;
+}
